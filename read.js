@@ -1,8 +1,11 @@
 
 
-function promptMe(){
+// function promptMe(){
+
     var name = prompt("Please insert your name");
+
     var address = prompt("Please insert your address");
+
     var phone = prompt("Please insert your phone");
     var age = prompt("guess my age?");
 if (age<23){
@@ -17,7 +20,7 @@ if (age<23){
 }
   document.getElementById("es").innerHTML="your order has been confirmed";
   
-}
-promptMe();
+// }
+// promptMe();
 ///////// lab6//////
 
