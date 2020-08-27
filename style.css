@@ -5,7 +5,7 @@ header{
     width: 100%;
     text-align: center;
  color: white; 
- background-color: rgb(211, 20, 58);
+ background-color: hsla(211, 100%, 70%, 0.75);
  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  
 }
